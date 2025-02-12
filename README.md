@@ -25,8 +25,11 @@ Fraud Sherlock: especializado na detecção de fraudes.
 Alpha Buddy: um guia para insights de mercado.
 
 Os participantes podem ganhar pontos de experiência (XP) completando tarefas como:
+
 ✅ Conectar a carteira MetaMask à plataforma.
+
 ✅ Participar dos canais oficiais no Discord e Telegram.
+
 ✅ Interagir diariamente com os agentes de IA.
 
 Por que Testar a AERO?
